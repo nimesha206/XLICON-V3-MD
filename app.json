@@ -8,19 +8,19 @@
   "stack": "container",
   "env": {
     "SUDO": {
-      "description": "Add Owwner Number Here",
+      "description": "94789549564",
       "required": true,
-      "value": "923184070915"
+      "value": "94789549564"
     },
     "SUDO_NAME": {
-      "description": "Add Your Name Here",
+      "description": "NIMESHA WHATSAPP BOT",
       "required": true,
-      "value": "SᴀʟᴍᴀɴSᴇʀ"
+      "value": "NIMESHA WHATSAPP BOT"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
       "required": true,
-      "value": ""
+      "value": "08016cb6-7ad9-4cd1-b978-e4605e1d5045"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
@@ -30,27 +30,27 @@
     "PREFIX": {
       "description": "Set Your Prefix Here",
       "required": true,
-      "value": "."
+      "value": ", # @ $ ."
     },
     "BOT_NAME": {
       "description": "Set Your Bot Name Here",
       "required": false,
-      "value": "Xʟɪᴄᴏɴ_Mᴅ_V3"
+      "value": "NIMESHA WHATSAPP BOT"
     },
      "PACK_NAME": {
       "description": "Enter Pack Name Here",
       "required": false,
-      "value": "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
+      "value": "NIMESHA WHATSAPP BOT"
      },
      "AUTHER_NAME": {
       "description": "Enter Auther Name Here",
       "required": false,
-      "value": "ＭＡＤＥ   ＢＹ   ＳＡＬＭＡＮ"
+      "value": "ＭＡＤＥ   ＢＹ   nimesha"
      },
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
       "required": false,
-      "value": "923184070915,923264476886"
+      "value": "94789549564,94789549564"
      },
     "WELCOME_MSG": {
       "description": "Welcome Message True/False",
@@ -65,7 +65,7 @@
     "AUTO_STATUS_SEEN": {
       "description": "Auto Status Seen True/False",
       "required": false,
-      "value": "true"
+      "value": "false"
      },
      "AUTO_BLOCK": {
       "description": "Set A Contary Code To Auto banned if u wanna",
